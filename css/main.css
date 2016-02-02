@@ -1,0 +1,46 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.rojo{
+	background: red;
+	position: static;
+	height: 300px;
+	width: 300px;
+
+}
+.morado{
+	background: purple;
+	position: relative;
+	left: 40px;
+	top: 50px;
+	height: 200px;
+	width: 200px;
+}
+.amarillo{
+	background: yellow;
+	position: absolute;
+	height: 100px;
+	width: 100px;
+}
+.azul{
+	background: blue;
+	position: absolute;
+	height: 300px;
+	width: 300px;
+	bottom: 40px;
+}
+.negro{
+	background: black;
+	position: static;
+	height: 50px;
+	width: 40px;
+}
+.verde{
+	background: green;
+	position: absolute;
+	left: 40px;
+	top: 50px;
+	height: 200px;
+	width: 200px;
+}
